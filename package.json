@@ -1,0 +1,28 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "NassCT",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "1.4.0",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "13.6.0",
+    "dotenv": "16.0.0",
+    "glob": "7.2.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.2.3",
+    "noblox.js": "^4.13.1",
+    "pm2": "^5.3.0",
+    "quick.db": "^9.1.7",
+    "request": "^2.88.2",
+    "strftime": "^0.10.1",
+    "visa2discord": "^1.1.1"
+  }
+}
